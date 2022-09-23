@@ -1,2 +1,2 @@
-# SLRM
-Simple Linear Regression Model
+# {.tabset}
+The **Simple Linear Regression Model (SLRM)**
